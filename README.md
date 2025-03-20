@@ -46,7 +46,7 @@ This repository serves as both a learning journal and a hands-on project hub. He
 - Higher-Order Components (HOCs)
 - Render Props Pattern
 - Deployment (Netlify / Vercel / GitHub Pages)
-- Project Folder Structure & Best Practices
+  
 
 ---
 
