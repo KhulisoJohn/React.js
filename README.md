@@ -8,19 +8,7 @@ This repository serves as both a learning journal and a hands-on project hub. He
 
 ## 📚 What You'll Find Here
 
-### **1. ES6+ JavaScript Essentials**
-- `let` & `const`
-- Arrow Functions
-- Template Literals
-- Destructuring (Objects & Arrays)
-- Spread & Rest Operators
-- Default Parameters
-- Modules (`import` / `export`)
-- Classes & Inheritance
-- Promises & Async/Await
-- Array methods (`map`, `filter`, `reduce`, etc.)
-
-### **2. React Fundamentals**
+### **1. React Fundamentals**
 - Introduction to JSX
 - Functional vs Class Components
 - Props & PropTypes
@@ -30,7 +18,7 @@ This repository serves as both a learning journal and a hands-on project hub. He
 - Lists & Keys
 - Basic Form Handling
 
-### **3. React Advanced Concepts**
+### **2. React Hooks and States**
 - React Hooks (`useState`, `useEffect`, `useRef`, `useContext`, `useReducer`)
 - Custom Hooks
 - Context API
@@ -40,7 +28,7 @@ This repository serves as both a learning journal and a hands-on project hub. He
 - State Management Patterns (lifting state up, prop drilling solutions)
 - Basic Unit Testing with Jest & React Testing Library
 
-### **4. Bonus**
+### **3. Bonus**
 - CSS Modules & Styled-Components
 - Component Composition Patterns
 - Higher-Order Components (HOCs)
@@ -54,7 +42,6 @@ This repository serves as both a learning journal and a hands-on project hub. He
 To:
 - Solidify my understanding of ES6+ and modern React
 - Practice writing clean, reusable, and efficient code
-- Build small projects and code snippets while learning
 - Track my journey and progress publicly
 
 ---
@@ -73,7 +60,7 @@ To:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/react-learning-journey.git
+   git clone https://github.com/your-username/React.js.git
 
 
   ## 🤝 Contributing
@@ -90,6 +77,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## ✨ Acknowledgements
 
+- [Techbridle Foundation](https://tecbridlefoundation.com)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [JavaScript.info](https://javascript.info/)
 - [React Docs](https://react.dev/learn)
